@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "dgSpecHash": "vypBXJ4ulAo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dewin\\Documents\\Tugas Kuliah\\Semester 4\\Pemograman Visual\\Praktikum\\Posttest5\\Posttest5\\Posttest5.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dewin\\.nuget\\packages\\aspire.mysqlconnector\\13.2.2\\aspire.mysqlconnector.13.2.2.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\aspnetcore.healthchecks.mysql\\9.0.0\\aspnetcore.healthchecks.mysql.9.0.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\dotconnect.express.for.mysql\\9.4.290\\dotconnect.express.for.mysql.9.4.290.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.5\\microsoft.extensions.configuration.binder.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.5\\microsoft.extensions.diagnostics.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\10.0.5\\microsoft.extensions.diagnostics.healthchecks.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\10.0.5\\microsoft.extensions.diagnostics.healthchecks.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.5\\microsoft.extensions.fileproviders.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.5\\microsoft.extensions.hosting.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.logging.configuration\\10.0.0\\microsoft.extensions.logging.configuration.10.0.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.options\\10.0.5\\microsoft.extensions.options.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.0\\microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\mysql.data\\9.6.0\\mysql.data.9.6.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\mysqlconnection\\1.0.1\\mysqlconnection.1.0.1.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\mysqlconnector.dependencyinjection\\2.5.0\\mysqlconnector.dependencyinjection.2.5.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\opentelemetry\\1.15.0\\opentelemetry.1.15.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\opentelemetry.api\\1.15.0\\opentelemetry.api.1.15.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.15.0\\opentelemetry.api.providerbuilderextensions.1.15.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.15.0\\opentelemetry.extensions.hosting.1.15.0.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\system.codedom\\11.0.0-preview.2.26159.112\\system.codedom.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\system.management\\11.0.0-preview.2.26159.112\\system.management.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\dewin\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'dotConnect.Express.for.MySQL 9.4.290' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\dewin\\Documents\\Tugas Kuliah\\Semester 4\\Pemograman Visual\\Praktikum\\Posttest5\\Posttest5\\Posttest5.vbproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dewin\\Documents\\Tugas Kuliah\\Semester 4\\Pemograman Visual\\Praktikum\\Posttest5\\Posttest5\\Posttest5.vbproj",
+      "libraryId": "dotConnect.Express.for.MySQL",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'MySQLConnection 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\dewin\\Documents\\Tugas Kuliah\\Semester 4\\Pemograman Visual\\Praktikum\\Posttest5\\Posttest5\\Posttest5.vbproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dewin\\Documents\\Tugas Kuliah\\Semester 4\\Pemograman Visual\\Praktikum\\Posttest5\\Posttest5\\Posttest5.vbproj",
+      "libraryId": "MySQLConnection",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
